@@ -1,3 +1,3 @@
-# CPP
+# C++
 <br>
 Programs of C++
